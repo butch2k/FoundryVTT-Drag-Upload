@@ -5,7 +5,7 @@
   "version": "2.3",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "12",
-  "author": "Cody Swendrowski <cody@swendrowski.us>",
+  "author": "Cody Swendrowski (cody@swendrowski.us)",
   "esmodules": [
     "./dragupload.js"
   ],
