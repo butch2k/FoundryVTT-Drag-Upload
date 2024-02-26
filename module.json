@@ -1,21 +1,24 @@
 {
-  "name": "draguploadv2",
-  "title": "Drag Upload (Get Over Here!)",
-  "description": "Adds the ability to drag files onto Foundry to automatically create Tokens, Tiles, Journal Pins, and Ambient Audio",
-  "version": "2.3",
-  "minimumCoreVersion": "9",
-  "compatibleCoreVersion": "12",
-  "author": "Cody Swendrowski (cody@swendrowski.us)",
-  "esmodules": [
+	"id": "draguploadv2",
+	"title": "Drag Upload V2(Get Over Really Here!)",
+	"description": "Adds the ability to drag files onto Foundry to automatically create Tokens, Tiles, Journal Pins, and Ambient Audio",
+	"version": "2.3",
+	"compatibility": {
+		"minimum": "9",
+		"verified": "12"
+	},
+	"authors": [
+		{
+			"name": "Cody Swendrowski",
+			"email": "cody@swendrowski.us"
+		}
+	],
+	"esmodules": [
     "./dragupload.js"
-  ],
-  "scripts": [
-  ],
-  "styles": [
-  ],
-  "languages": [
-  ],
-  "url": "https://github.com/butch2k/FoundryVTT-Drag-Upload",
-  "manifest": "https://github.com/butch2k/FoundryVTT-Drag-Upload/releases/download/latest/module.json",
-  "download": "https://github.com/butch2k/FoundryVTT-Drag-Upload/releases/download/2.2.2/module.zip"
+	],
+	"languages": [
+	],
+	"url": "https://github.com/butch2k/FoundryVTT-Drag-Upload",
+	"manifest": "https://github.com/butch2k/FoundryVTT-Drag-Upload/releases/download/latest/module.json",
+	"download": "https://github.com/butch2k/FoundryVTT-Drag-Upload/releases/download/2.2.2/module.zip"
 }
