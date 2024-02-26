@@ -2,7 +2,7 @@
   "name": "draguploadv2",
   "title": "Drag Upload (Get Over Here!)",
   "description": "Adds the ability to drag files onto Foundry to automatically create Tokens, Tiles, Journal Pins, and Ambient Audio",
-  "version": "2.2.2",
+  "version": "2.3",
   "minimumCoreVersion": "9",
   "compatibleCoreVersion": "12",
   "author": "Cody Swendrowski <cody@swendrowski.us>",
